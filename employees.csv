@@ -1,0 +1,2 @@
+first_name,last_name,email,phone_number,hire_date,job_id,salary,commission_pct,manager_id,department_id
+John,Doe,john@example.com,1234567890,2022-01-01,DEV,60000,0.1,1,2
